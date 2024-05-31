@@ -1,0 +1,8 @@
+.footer {
+    background-color: #0C0C0C; /* dark background color */
+    color: white; /* text color */
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }

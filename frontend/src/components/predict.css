@@ -1,0 +1,18 @@
+.choose {
+  border: none;
+  cursor: pointer;
+}
+
+.submit-button {
+  background-color: #00b7ff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+  background-color: #0094d4;
+}
